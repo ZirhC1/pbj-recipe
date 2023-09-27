@@ -1,0 +1,46 @@
+h1 {
+  color: rgba(56, 102, 161, 0.877);
+}
+
+h2 {
+  color: rgba(56, 102, 161, 0.877);
+}
+a {
+  color: rgba(56, 102, 161, 0.877);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+h1,
+h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+html {
+  background-color: rgba(56, 102, 161, 0.877);
+}
+body {
+  background-color: rgba(255, 255, 255, 0.877);
+  border: 10px solid rgb(56, 102, 161, 0.877);
+  width: 600px;
+  padding: 25px 75px;
+  border-radius: 15px;
+  border-style: dashed;
+  margin: 50px auto;
+}
+
+li {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  border-style: dotted;
+  border: 10px solid rgb(56, 102, 161, 0.877);
+}
